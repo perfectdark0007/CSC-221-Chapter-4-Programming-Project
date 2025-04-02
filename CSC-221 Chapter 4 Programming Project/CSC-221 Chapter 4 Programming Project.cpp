@@ -7,7 +7,7 @@
 // Determine if it's a leap year by using a boolean variable.
 // Determine the number of days in the month by using a switch statement.
 // Display the number of days in the month.
-// Return 0 to end the program.
+// Return 0 at the end of the program to indicate successful completion.
 
 #include <iostream>
 
