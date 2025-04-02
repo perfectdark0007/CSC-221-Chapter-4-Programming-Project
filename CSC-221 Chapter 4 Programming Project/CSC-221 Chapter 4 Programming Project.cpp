@@ -9,7 +9,7 @@
 // Determine rate per 500 miles based on package weight.
 // Calculate the number of 500-mile segments for distance and total shipping charges.
 // Display the total charges.
-// Return 0 to end program.
+// Return 0 at the end of the program to indicate successful completion.
 
 #include <iostream>
 #include <iomanip>
